@@ -21,6 +21,18 @@
 <br>
 
 <div>
+  <h2><strong>🛠 사용 기술 스택</strong></h2>
+  <ul>
+    <li><strong>언어</strong>: R, SQL</li>
+    <li><strong>분석 도구</strong>: Random Forest</li>
+    <li><strong>데이터베이스</strong>: Oracle</li>
+    <li><strong>데이터 시각화 및 웹 구현</strong>: Rshiny</li>
+  </ul>
+</div>
+
+<br>
+
+<div>
   <h2><strong>프로젝트 개요</strong></h2>
   기상 및 수문 데이터를 활용하여 머신러닝 기반의 가뭄 예측 시스템을 개발하였습니다.<br>
   특히, R을 활용한 머신러닝 분석과 Oracle 데이터베이스를 활용한 데이터 관리로 성과를 도출했습니다.<br>
@@ -85,15 +97,7 @@
   </ul>
 </div>
 
-<div>
-  <h2><strong>🛠 사용 기술 스택</strong></h2>
-  <ul>
-    <li><strong>언어</strong>: R, SQL</li>
-    <li><strong>분석 도구</strong>: Random Forest</li>
-    <li><strong>데이터베이스</strong>: Oracle</li>
-    <li><strong>데이터 시각화 및 웹 구현</strong>: Rshiny</li>
-  </ul>
-</div>
+<br>
 
 <div>
   <h2><strong>📜 기대 효과</strong></h2>
@@ -103,6 +107,8 @@
     <li>지속 가능한 물 관리 전략 수립에 기여.</li>
   </ul>
 </div>
+
+<br>
 
 <div>
   <h2><strong>🏆 성과</strong></h2>
